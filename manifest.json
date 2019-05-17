@@ -1,7 +1,7 @@
 {
   "name": "BERPUSAT.COM",
   "short_name": "JAPBERPUSAT",
-  "start_url": "https://www.berpusat.com/?m=1",
+  "start_url": "https://www.berpusat.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
